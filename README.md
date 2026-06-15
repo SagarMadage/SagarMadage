@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=240&section=header&text=Abhishek%20Ohol&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=240&section=header&text=Sagar%20Madage&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
 
 ### ☁️ Cloud & DevOps Enthusiast | AWS | Linux | Automation
@@ -23,10 +23,10 @@
 
 ---
 
-# Hi 👋 I'm Abhishek Ohol
+# Hi 👋 I'm Sagar Madage
 
 ### AWS & DevOps Engineer
-Name     : Abhishek Ohol
+Name     : Sagar Madage
 Role     : Cloud & DevOps Enthusiast
 Learning : Cloud Computing @ Fortune Cloud
 Status   : DevOps in Progress 🚧
@@ -38,7 +38,7 @@ Motto    : "Always learning, always building"
 - 🔧 Hands-on with AWS services, IaC (Terraform), and system administration
 - 💡 Passionate about *Cloud Architecture, **DevOps pipelines* & *Automation*
 - 🌱 Currently exploring *Docker, **CI/CD, and **Kubernetes*
-- - 📧 Reach me at **abhishekohol007@gmail.com**
+- - 📧 Reach me at **saggy7333@gmail.com**
 
 
 ---
@@ -74,6 +74,6 @@ Motto    : "Always learning, always building"
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-abhishek07coder-181717?style=for-the-badge&logo=github)](https://github.com/abhishek07coder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Ohol-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-ohol-57b813226)
-[![Email](https://img.shields.io/badge/Email-abhishekohol007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekohol007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SagarMadage-181717?style=for-the-badge&logo=github)](https://github.com/sagarmadage)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagar%20madage-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagar-madage-a9175b233/)
+[![Email](https://img.shields.io/badge/Email-saggy7333%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saggy7333@gmail.com)
